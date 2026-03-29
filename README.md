@@ -1,2 +1,2 @@
-# mi_bigdata
-Mi Big Data Contest
+# focus group
+How to do focus group
